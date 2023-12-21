@@ -1,5 +1,5 @@
 # Data Management with Excel
-This repository contains a set of notes and materials for a topic on introductory data managemnt with Excel. It is directed to juniors and seniors undergraduates with some technical background; some knowledge of Excel and coding will be assumed at some points.
+This repository contains a set of notes and materials for a topic on introductory data management with Excel. It is directed to juniors and seniors undergraduates with some technical background; some knowledge of Excel and coding will be assumed at some points.
 
 The contents include:
 
