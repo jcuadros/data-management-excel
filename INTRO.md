@@ -17,7 +17,7 @@ https://www.rd-alliance.org/recommendations-outputs/standards
 ## Data lifecycle
 
 https://datamanagement.hms.harvard.edu/plan-design/biomedical-data-lifecycle
-
+https://dmeg.cessda.eu/
 
 ## Data and metadata
 
@@ -67,6 +67,8 @@ https://www.researchgate.net/publication/261134451_Developing_a_Data_Identifier_
 
 
 ## Legal and ethical aspects of data
+
+https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_en
 
 Personal Data
 https://www.eui.eu/Documents/ServicesAdmin/DeanOfStudies/ResearchEthics/Guide-Data-Protection-Research.pdf
